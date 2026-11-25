@@ -511,3 +511,102 @@
     font-size: 17px;
     color: #666;
 }
+
+/* con9 */
+.con9{
+    padding: 80px 130px 40px 130px;
+    background-color: #35364a;
+   
+}
+
+.top9{
+    display: flex;
+    justify-content: space-between;
+}
+
+.col9 h3{
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+}
+
+.col9 p{
+    margin-top: 30px;
+    font-size: 17px;
+    color: white;
+}
+
+.box9_1{
+    width: 450px;
+}
+
+.box9_1 h3{
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+  
+}
+
+.box9_1 p{
+    margin-top: 25px;
+    font-size: 17px;
+    color: white;
+    
+}
+
+.mail9{
+    display: flex;
+    align-items: center;
+    width: 450px;
+    height: 65px;
+    margin-top: 30px;
+    border: 2px solid white;
+    border-radius: 12px;
+}
+
+.em9{
+    width: 280px;
+    padding-left: 30px;
+    font-size: 16px;
+    color: #ccc;
+}
+
+.sub9{
+    width: 170px;
+    padding: 20px 0;
+    text-align: center;
+    background-color: white;
+    color: #2d3142;
+    border-radius: 12px;
+    
+}
+
+.bottom9{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.agency{
+    font-size: 16px;
+    color: white;
+}
+
+.logo9{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo9 span{
+    font-size: 32px;
+    font-weight: 600;
+    color: white;
+}
+
+.soc9{
+    display: flex;
+    gap: 15px;
+}
+
