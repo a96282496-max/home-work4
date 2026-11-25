@@ -1,3 +1,11 @@
+/* .con_as{
+    margin: 0;
+   
+}
+.box_as{
+    max-width: 1440px;
+    margin: 0 auto;
+} */
 .box1{
     padding: 30px 130px;
 }
@@ -610,3 +618,7 @@
     gap: 15px;
 }
 
+.con_as{
+    max-width: 1150px;
+    margin: auto;
+}
