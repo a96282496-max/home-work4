@@ -1,0 +1,37 @@
+.box1{
+    padding: 30px 130px;
+}
+.n1{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.m1{
+    display: flex;
+    gap: 40px;
+    font-size: 16px;
+
+}
+.s1{
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.s1_1{
+    width: 105px;
+    background-color: #E5E5E5;
+    height: 1px;
+    margin-top: -5px;
+}
+.s2{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
