@@ -399,3 +399,43 @@
     font-size: 16px;
     color: #888;
 }
+
+/* con6 */
+.con7{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 0 130px;
+    background-color: #e6eff7;
+   
+}
+
+.box7{
+    width: 500px;
+    margin-bottom: 150px;
+}
+
+.small7{
+    font-size: 18px;
+    color: #2b7fd9;
+}
+
+.box7 h2{
+    margin-top: 20px;
+    font-size: 48px;
+    color: #2d3142;
+    
+}
+
+.box7 p{
+    margin-top: 25px;
+    font-size: 17px;
+    color: #666;
+   
+}
+
+.btns7{
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+}
