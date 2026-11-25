@@ -320,3 +320,82 @@
     color: #666;
     
 }
+
+/* con6 */
+
+.con6{
+    padding: 80px 130px;
+    font-family: "Inter", Arial, sans-serif;
+}
+
+.box6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.small6{
+    font-size: 18px;
+    color: #2b7fd9;
+}
+
+.box6 h2{
+    margin-top: 10px;
+    font-size: 44px;
+    color: #2d3142;
+}
+
+.box6 p{
+    width: 600px;
+    margin-top: 20px;
+    font-size: 17px;
+    color: #666;
+   
+}
+
+.tabs6{
+    display: flex;
+    gap: 40px;
+    margin-top: 50px;
+    background-color: #217cf421;
+}
+
+.tab6{
+    width: 150px;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 17px;
+    color: #2d3142;
+    border-radius: 8px;
+}
+
+.act6{
+    background-color: #1a73e8;
+    color: white;
+}
+
+.list6{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.m6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.m6 h3{
+    margin-top: 20px;
+    font-size: 26px;
+    font-weight: 600;
+    color: #2d3142;
+}
+
+.m6 p{
+    margin-top: 10px;
+    font-size: 16px;
+    color: #888;
+}
