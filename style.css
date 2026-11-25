@@ -244,14 +244,13 @@
     margin-top: 20px;
     font-size: 48px;
     color: #2d3142;
-    line-height: 1.5;
+    
 }
 
 .box4_1 p{
     margin-top: 25px;
     font-size: 17px;
     color: #666;
-    line-height: 1.9;
 }
 
 .btn4{
@@ -263,4 +262,61 @@
     color: white;
     border-radius: 8px;
     font-size: 16px;
+}
+/* con5 */
+.con5{
+    padding: 80px 130px;
+}
+
+.box5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.small5{
+    font-size: 18px;
+    color: #2b7fd9;
+}
+
+.box5 h2{
+    margin-top: 10px;
+    font-size: 44px;
+    color: #2d3142;
+}
+
+.box5 p{
+    width: 500px;
+    margin-top: 20px;
+    font-size: 17px;
+    color: #666;
+   
+}
+
+.row5{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.card5{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 500px;
+    box-shadow: 1px 1px 50px #7F7F7F21;
+}
+
+.txt5 h3{
+    font-size: 26px;
+    font-weight: 500;
+    color: #2d3142;
+}
+
+.txt5 p{
+    margin-top: 10px;
+    font-size: 16px;
+    color: #666;
+    
 }
